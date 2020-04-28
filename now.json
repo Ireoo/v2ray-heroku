@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "type": "docker",
+    "features": { "cloud": "v1" },
+    "env": {
+        "UUID": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+    },
+    "alias": ["v2raytest"]
+}
